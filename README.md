@@ -13,9 +13,6 @@ insight statements rather than in another table to interpret.
 ![Dashboard](docs/screenshot.png)
 -->
 
-**[Live demo](https://<your-username>.github.io/coo-command-center/)** ·
-single HTML file, no build step
-
 ---
 
 ## The premise
